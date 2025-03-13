@@ -1,6 +1,6 @@
-<h1 align="center">Привет! Я xdesai — Python Developer</h1>
+<h1 align="center">Привет! Я desai</h1>
 <p align="center">
-  🔧 Telegram Bots | 🧩 Hikka Modules | 💻 Open Source | ☕ Coding with chaos
+  🔧 Telegram Bots | 🧩 Hikka/Heroku Modules | 💻 Open Source | ☕ Coding with chaos
 </p>
 
 <p align="center">
