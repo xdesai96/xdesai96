@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я desai</h1>
+<h1 align="center">Hello! I'm desai</h1>
 <p align="center">
   🔧 Telegram Bots | 🧩 Hikka/Heroku Modules | 💻 Open Source | ☕ Coding with chaos
 </p>
@@ -9,16 +9,16 @@
 
 ---
 
-## 💡 Обо мне
+## 💡 About Me
 
-- Разрабатываю **ботов и модули** для автоматизации Telegram-чатов.
-- Член команды **KshTeam**, где создаю модули для [**Hikka**](https://github.com/hikariatama/Hikka)/[**Heroku**](https://github.com/coddrago/Heroku) **Userbot**.
-- Люблю код, архитектуру и кастомизацию всего, что можно автоматизировать.
-- Пишу **гибкие админ-инструменты**, фильтры, антифлуд-системы и многое другое.
+- I develop **bots and modules** for automating Telegram chats.
+- A member of the **KshTeam**, where I create modules for [**Hikka**](https://github.com/hikariatama/Hikka)/[**Heroku**](https://github.com/coddrago/Heroku) **Userbot**.
+- I love coding, architecture, and customizing everything that can be automated.
+- I create **flexible admin tools**, filters, anti-flood systems, and much more.
 
 ---
 
-## 🛠️ Навыки и технологии
+## 🛠️ Skills & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram_Bots-2CA5E0?style=flat&logo=telegram)
@@ -29,13 +29,13 @@
 
 ---
 
-## 📂 Мои проекты
+## 📂 My Projects
 
-> Загляни в репозитории — ты найдёшь кастомные модули.
+> Check out my repositories — you'll find custom modules.
 
 ---
 
-## 📈 GitHub Статистика
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xdesai96&show_icons=true&theme=tokyonight" />
@@ -45,11 +45,11 @@
 
 ---
 
-## 📫 Связь
+## 📫 Contact
 
 - Telegram: [@xdesai](https://t.me/xdesai)
 - GitHub: [github.com/xdesai96](https://github.com/xdesai96)
 
 ---
 
-> *"Стабильность — это миф. Хаос — наш компилятор."*
+> *"Stability is a myth. Chaos is our compiler."*
