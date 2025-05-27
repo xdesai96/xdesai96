@@ -70,7 +70,7 @@ I'm a full-stack developer passionate about building modern, high-performance we
 
 ### 📫 Contact
 
-- 🌐 Feedback: [xdesai.org](https://xdesai.org/feedback)
+- 🌐 Feedback: [xdesai.org/feedback](https://xdesai.org/feedback)
 - 🤖 Telegram: [@xdesai](https://t.me/xdesai)
 
 ---
