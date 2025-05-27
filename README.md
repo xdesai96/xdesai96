@@ -1,6 +1,6 @@
-<h1 align="center">Hello! I'm desai</h1>
+<h1 align="center">Hello! I'm XDesai</h1>
 <p align="center">
-  🔧 Telegram Bots | 🧩 Hikka/Heroku Modules | 💻 Open Source | ☕ Coding with chaos
+  🔧 Telegram Bots | 🧩 Hikka/Legacy Modules | 🌐 Web Apps | 💻 Open Source | ☕ Coding with chaos
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ## 💡 About Me
 
 - I develop **bots and modules** for automating Telegram chats.
-- A member of the **KshTeam**, where I create modules for [**Hikka**](https://github.com/hikariatama/Hikka)/[**Heroku**](https://github.com/coddrago/Heroku) **Userbot**.
+- I create modules for [**Hikka**](https://github.com/hikariatama/Hikka)/[**Legacy**](https://github.com/Crayz310/Legacy) **Userbot**.
 - I love coding, architecture, and customizing everything that can be automated.
 - I create **flexible admin tools**, filters, anti-flood systems, and much more.
 
@@ -48,7 +48,7 @@
 ## 📫 Contact
 
 - Telegram: [@xdesai](https://t.me/xdesai)
-- GitHub: [github.com/xdesai96](https://github.com/xdesai96)
+- Web: [xdesai.org](https://xdesai.org)
 
 ---
 
