@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=XDesai&fontSize=50&fontColor=ffffff" />
 </p>
 <p align="center">
-  <a href="https://xdesai.org" target="_blank">
+  <a href="https://bio.xdesai.dev" target="_blank">
     <img src="https://img.shields.io/badge/Web-%237aa2f7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=%231a1b26" alt="Web" />
   </a>
   <a href="https://t.me/xdesai" target="_blank">
