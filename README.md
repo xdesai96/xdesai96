@@ -1,4 +1,4 @@
-# XDesai's Github page
+# Sup, I'm XDesai
 
 ![XDesai](https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=XDesai&fontSize=50&fontColor=ffffff)
 
