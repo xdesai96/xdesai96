@@ -2,10 +2,6 @@
 
 ![XDesai](https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=XDesai&fontSize=50&fontColor=ffffff)
 
-[![Web](https://img.shields.io/badge/Web-%237aa2f7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=%231a1b26)](https://xdesai.dev)
-[![Telegram](https://img.shields.io/badge/Telegram-%237dcfff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=%231a1b26)](https://t.me/xdesai)
-[![Email](https://img.shields.io/badge/Email-%237aa2f7?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=%231a1b26)](mailto:xdesai@proton.me)
-
 ---
 
 ## 👨‍💻 About Me
